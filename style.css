@@ -4,12 +4,39 @@ body{
 }
 .container-flexable{
     display: flex;
+    margin-bottom: 110px;
+}
+.orangeerd-color{
+    color: orangered;
 }
 .container-halfwi{
     width: 50%;
-    padding-left: 5px;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 .container-halfwi img{
-    width: 80%;
-    padding-top: 2%
+    width: 85%;
+    padding-top: 3%
+}
+.order-contact{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(216, 72, 15, 0.911), rgb(223, 132, 27));
+    color: white;
+    text-align: justify;
+    font-weight: 700;
+    border-radius: 15px;
+    padding: 10px 40px;
+}
+.contact-us{
+    background-image: url(shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: 40% 30%;
+}
+.prepare-meal{
+    text-align: center;
+}
+#paragraph{
+    padding-left: 20%;
+    padding-right: 20%;
 }
