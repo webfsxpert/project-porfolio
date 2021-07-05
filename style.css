@@ -1,0 +1,15 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+}
+.container-flexable{
+    display: flex;
+}
+.container-halfwi{
+    width: 50%;
+    padding-left: 5px;
+}
+.container-halfwi img{
+    width: 80%;
+    padding-top: 2%
+}
