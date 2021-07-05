@@ -40,3 +40,14 @@ body{
     padding-left: 20%;
     padding-right: 20%;
 }
+.footer-para{
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(29, 13, 13);
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
